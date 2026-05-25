@@ -1,0 +1,21 @@
+# Banco de dados SQLite (recriado automaticamente pelo servidor)
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Capturas brutas de tráfego (mantenha só os prints/relatórios em docs/)
+*.pcap
+*.pcapng
+
+# Sistema operacional / editor
+.DS_Store
+.idea/
+.vscode/
